@@ -1,23 +1,20 @@
 body {text-align: center;
-    background-color: pink;
+    background-color: darkblue;
     font-family: 'Times New Roman', Times, serif;
 }
 
   h1 {
-      color: rgb(191, 248, 243);
+      color: yellow;
       border-style: dotted;
       border-width: 5px;
-      background-color: rgb(255, 132, 132);
+      background-color:black);
 }
-  h2 {color: rgb(191, 248, 243);}
-    
+
   p {color: white;}
     
-  ul {color:blueviolet;
+  ul {color:lavender;
     list-style-position: inside;
     text-align: left;
     text-indent: 35%;
 }
-
-    
-
+a{color:skyblue}
