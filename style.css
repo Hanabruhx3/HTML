@@ -1,0 +1,23 @@
+body {text-align: center;
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+  h1 {
+      color: rgb(191, 248, 243);
+      border-style: dotted;
+      border-width: 5px;
+      background-color: rgb(255, 132, 132);
+}
+  h2 {color: rgb(191, 248, 243);}
+    
+  p {color: white;}
+    
+  ul {color:blueviolet;
+    list-style-position: inside;
+    text-align: left;
+    text-indent: 35%;
+}
+
+    
+
